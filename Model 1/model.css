@@ -4,20 +4,17 @@
     box-sizing: border-box;
 }
 
-
 body{
     background-color: rgb(235, 224, 211);
 }
 
-.container{
-    
+.container{    
     background-color: white;
     padding: 20px 0px 20px 20px;
     margin: 50px auto;
     max-width: 100%;
     width: 700px;
     border-radius: 20px;
-    
 }
 
 img{
@@ -61,7 +58,6 @@ li{
     margin-left: 50px;
     width: 90%;
     padding: 3px 10px;
-    
 }
 
 hr{
